@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/achievement-object.xsd">
+	<import>
+		<categories>
+			<category name="gallery">
+				<parent></parent>
+			</category>
+		</categories>
+		<objects>
+			<object>
+				<name>UserGalleryPhotos</name>
+				<parent>gallery</parent>
+				<eventclassname>UserGalleryPhotoAddForm</eventclassname>
+				<eventname>saved</eventname>
+				<classfile>lib/data/user/achievement/object/UserGalleryPhotosAchievementObject.class.php</classfile>
+				<languagecategory>wcf.achievement</languagecategory>
+			</object>
+			<object>
+				<name>UserGalleryAlbums</name>
+				<parent>gallery</parent>
+				<eventclassname>UserGalleryAlbumAddForm</eventclassname>
+				<eventname>saved</eventname>
+				<classfile>lib/data/user/achievement/object/UserGalleryAlbumsAchievementObject.class.php</classfile>
+				<languagecategory>wcf.achievement</languagecategory>
+			</object>
+			<object>
+				<name>UserGalleryComments</name>
+				<parent>gallery</parent>
+				<eventclassname>UserGalleryPhotoAddForm</eventclassname>
+				<eventname>saved</eventname>
+				<classfile>lib/data/user/achievement/object/UserGalleryCommentsAchievementObject.class.php</classfile>
+				<languagecategory>wcf.achievement</languagecategory>
+			</object>
+			<object>
+				<name>UserGalleryRatings</name>
+				<parent>gallery</parent>
+				<eventclassname>ObjectRatingAction</eventclassname>
+				<eventname>executed</eventname>
+				<classfile>lib/data/user/achievement/object/UserGalleryRatingsAchievementObject.class.php</classfile>
+				<languagecategory>wcf.achievement</languagecategory>
+			</object>
+		</objects>
+	</import>
+</data>
