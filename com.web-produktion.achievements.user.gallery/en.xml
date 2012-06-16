@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd">
+<language languagecode="en" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd">
 	<!-- wcf.achievement -->
 	<category name="wcf.achievement">
 		<item name="wcf.achievement.category.gallery"><![CDATA[Gallery]]></item>
@@ -16,40 +16,40 @@
 		<item name="wcf.achievement.photos.250.description"><![CDATA[Upload hundred and fifty images.]]></item>
 		
 		<!-- TODO: übersetzen -->
-		<item name="wcf.achievement.albums.1"><![CDATA[Schau mal..]]></item>
-		<item name="wcf.achievement.albums.1.description"><![CDATA[Erstellen Sie ein Album.]]></item>
-		<item name="wcf.achievement.albums.5"><![CDATA[Ich zeigs' euch]]></item>
-		<item name="wcf.achievement.albums.5.description"><![CDATA[Erstellen Sie fünf Alben.]]></item>
-		<item name="wcf.achievement.albums.10"><![CDATA[Ich liebe Bürokratie]]></item>
-		<item name="wcf.achievement.albums.10.description"><![CDATA[Erstellen Sie zehn Alben.]]></item>
-		<item name="wcf.achievement.albums.25"><![CDATA[Kontrollfreak]]></item>
-		<item name="wcf.achievement.albums.25.description"><![CDATA[Erstellen Sie 25 Alben.]]></item>
+		<item name="wcf.achievement.albums.1"><![CDATA[Take a look...]]></item>
+		<item name="wcf.achievement.albums.1.description"><![CDATA[Create an album.]]></item>
+		<item name="wcf.achievement.albums.5"><![CDATA[I'll show you]]></item>
+		<item name="wcf.achievement.albums.5.description"><![CDATA[Create five albums.]]></item>
+		<item name="wcf.achievement.albums.10"><![CDATA[I love bureaucracy]]></item>
+		<item name="wcf.achievement.albums.10.description"><![CDATA[Create ten albums.]]></item>
+		<item name="wcf.achievement.albums.25"><![CDATA[Controllfreak]]></item>
+		<item name="wcf.achievement.albums.25.description"><![CDATA[Create twenty-five albums.]]></item>
 		
-		<item name="wcf.achievement.gallery.comments.1"><![CDATA[Ein Klecks Senf]]></item>
-		<item name="wcf.achievement.gallery.comments.1.description"><![CDATA[Machen Sie einen Kommentar.]]></item>		
-		<item name="wcf.achievement.gallery.comments.10"><![CDATA[Meine Meinung zählt]]></item>
-		<item name="wcf.achievement.gallery.comments.10.description"><![CDATA[Machen Sie zehn Kommentare.]]></item>		
-		<item name="wcf.achievement.gallery.comments.25"><![CDATA[Ich meins' doch nur gut]]></item>
-		<item name="wcf.achievement.gallery.comments.25.description"><![CDATA[Machen Sie 25 Kommentare.]]></item>		
+		<item name="wcf.achievement.gallery.comments.1"><![CDATA[A blob mustard]]></item>
+		<item name="wcf.achievement.gallery.comments.1.description"><![CDATA[Write a comment.]]></item>		
+		<item name="wcf.achievement.gallery.comments.10"><![CDATA[My opinion!]]></item>
+		<item name="wcf.achievement.gallery.comments.10.description"><![CDATA[Write ten comments.]]></item>		
+		<item name="wcf.achievement.gallery.comments.25"><![CDATA[I do think it is just good]]></item>
+		<item name="wcf.achievement.gallery.comments.25.description"><![CDATA[Write twenty-five comments.]]></item>		
 		<item name="wcf.achievement.gallery.comments.50"><![CDATA[So what?]]></item>
-		<item name="wcf.achievement.gallery.comments.50.description"><![CDATA[Machen Sie 50 Kommentare.]]></item>		
-		<item name="wcf.achievement.gallery.comments.100"><![CDATA[Zu allem eine Meinung]]></item>
-		<item name="wcf.achievement.gallery.comments.100.description"><![CDATA[Machen Sie 100 Kommentare.]]></item>	
+		<item name="wcf.achievement.gallery.comments.50.description"><![CDATA[Write fifty comments.]]></item>		
+		<item name="wcf.achievement.gallery.comments.100"><![CDATA[Opinions on everything]]></item>
+		<item name="wcf.achievement.gallery.comments.100.description"><![CDATA[Write one hundred comments.]]></item>	
 		
 		<item name="wcf.achievement.gallery.ratings.1"><![CDATA[I like, +1]]></item>
-		<item name="wcf.achievement.gallery.ratings.1.description"><![CDATA[Geben Sie eine Bewertung zu einem Bild ab.]]></item>		
+		<item name="wcf.achievement.gallery.ratings.1.description"><![CDATA[Rate an image.]]></item>		
 		<item name="wcf.achievement.gallery.ratings.10"><![CDATA[Bling, Bling]]></item>
-		<item name="wcf.achievement.gallery.ratings.10.description"><![CDATA[Geben Sie zehn Bewertungen ab.]]></item>		
-		<item name="wcf.achievement.gallery.ratings.25"><![CDATA[Mehr Gold als Mr. T]]></item>
-		<item name="wcf.achievement.gallery.ratings.25.description"><![CDATA[Geben Sie 25 Bewertungen ab.]]></item>		
-		<item name="wcf.achievement.gallery.ratings.50"><![CDATA[Punktrichter]]></item>
-		<item name="wcf.achievement.gallery.ratings.50.description"><![CDATA[Geben Sie 50 Bewertungen ab.]]></item>		
+		<item name="wcf.achievement.gallery.ratings.10.description"><![CDATA[Rate ten images.]]></item>		
+		<item name="wcf.achievement.gallery.ratings.25"><![CDATA[More gold as Mr. T]]></item>
+		<item name="wcf.achievement.gallery.ratings.25.description"><![CDATA[Rate twenty-five images.]]></item>		
+		<item name="wcf.achievement.gallery.ratings.50"><![CDATA[Scoring judge]]></item>
+		<item name="wcf.achievement.gallery.ratings.50.description"><![CDATA[Rate fifty images.]]></item>		
 		<item name="wcf.achievement.gallery.ratings.100"><![CDATA[Like a boss]]></item>
-		<item name="wcf.achievement.gallery.ratings.100.description"><![CDATA[Geben Sie 100 Bewertungen ab.]]></item>
+		<item name="wcf.achievement.gallery.ratings.100.description"><![CDATA[Rate one hundred images.]]></item>
 		
-		<item name="wcf.achievement.gallery.collection"><![CDATA[Galerist]]></item>
-		<item name="wcf.achievement.gallery.collection.description"><![CDATA[Erreichen Sie alle unten aufgelisteten Erfolge.]]></item>
+		<item name="wcf.achievement.gallery.collection"><![CDATA[Gallery owner]]></item>
+		<item name="wcf.achievement.gallery.collection.description"><![CDATA[Reach all the achievements listed below.]]></item>
 		
-		<item name="wcf.achievement.reward.gallery.collection.rank"><![CDATA[Galerist]]></item>
+		<item name="wcf.achievement.reward.gallery.collection.rank"><![CDATA[Gallery owner]]></item>
 	</category>
 </language>

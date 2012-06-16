@@ -33,7 +33,7 @@ class UserGalleryCommentsAchievementObject extends DefaultAchievementObject{
 		
 		$sql = "SELECT COUNT(*) AS count 
 			FROM wcf".WCF_N."_user_gallery_comment comment
-			WHERE (comment.ownerID = ".$this->user->userID.")";
+			WHERE (comment.userID = ".$this->user->userID.")";
 		$row = WCF::getDB()->getFirstRow($sql);
 		return $row['count'];
 	}
