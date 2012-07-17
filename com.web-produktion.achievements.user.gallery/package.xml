@@ -5,8 +5,8 @@
 		<packagedescription languagecode="de"><![CDATA[]]></packagedescription>
 		<packagedescription languagecode="de-informal"><![CDATA[]]></packagedescription>
 		<packagedescription languagecode="en"><![CDATA[]]></packagedescription>
-		<version>1.0.2</version>
-		<date>2012-02-23</date>
+		<version>1.0.3</version>
+		<date>2012-07-17</date>
 		<plugin>com.woltlab.wcf.form.message</plugin>
 	</packageinformation>
 
@@ -43,12 +43,12 @@
 		<!-- config -->
 		<achievementobject>achievementobject.xml</achievementobject>
 		<achievementreward>achievementreward.xml</achievementreward>
-		<achievement>achievement.xml</achievement>		
+		<achievement>achievement.xml</achievement>
 		
 		<!-- languages -->
 		<languages languagecode="de">de.xml</languages>
 		<languages languagecode="de-informal">de-informal.xml</languages>
-		<languages languagecode="en">en.xml</languages>		
+		<languages languagecode="en">en.xml</languages>
 	</instructions>	
 	
 	<instructions type="update" fromversion="1.0.1">
@@ -63,6 +63,21 @@
 		<!-- languages -->
 		<languages languagecode="de">de.xml</languages>
 		<languages languagecode="de-informal">de-informal.xml</languages>
-		<languages languagecode="en">en.xml</languages>		
+		<languages languagecode="en">en.xml</languages>
+	</instructions>
+	
+	<instructions type="update" fromversion="1.0.2">
+		<!-- files -->
+		<files>files.tar</files>
+		
+		<!-- config -->
+		<achievementobject>achievementobject.xml</achievementobject>
+		<achievementreward>achievementreward.xml</achievementreward>
+		<achievement>achievement.xml</achievement>
+		
+		<!-- languages -->
+		<languages languagecode="de">de.xml</languages>
+		<languages languagecode="de-informal">de-informal.xml</languages>
+		<languages languagecode="en">en.xml</languages>
 	</instructions>
 </package>
